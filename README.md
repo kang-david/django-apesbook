@@ -1,0 +1,1 @@
+A simple blog website created using Python Django across the stack, from UI templating to database ORM.
